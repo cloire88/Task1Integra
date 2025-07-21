@@ -21,7 +21,7 @@ The server is running at ``http://localhost:9090``
 
 Open Postman and select the GET method to get the data.
 
-Write this command to GET all data:
+Write this route to GET all data:
 
 ```bash
 localhost:9090/todos
